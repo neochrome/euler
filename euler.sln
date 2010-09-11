@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Problems", "Problems", "{5CA80CF0-0322-43D2-8A8E-D71999996F14}"
+	ProjectSection(SolutionItems) = preProject
+		003.fsx = 003.fsx
+		009.fsx = 009.fsx
+		012.fsx = 012.fsx
+		013.fsx = 013.fsx
+		014.fsx = 014.fsx
+		015.fsx = 015.fsx
+		018.fsx = 018.fsx
+		019.fsx = 019.fsx
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "solved", "solved", "{C335B236-A990-4950-A666-8C35D404DEB7}"
+	ProjectSection(SolutionItems) = preProject
+		001.fsx = 001.fsx
+		002.fsx = 002.fsx
+		004.fsx = 004.fsx
+		005.fsx = 005.fsx
+		006.fsx = 006.fsx
+		007.fsx = 007.fsx
+		008.fsx = 008.fsx
+		010.fsx = 010.fsx
+		011.fsx = 011.fsx
+		016.fsx = 016.fsx
+		017.fsx = 017.fsx
+		020.fsx = 020.fsx
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C335B236-A990-4950-A666-8C35D404DEB7} = {5CA80CF0-0322-43D2-8A8E-D71999996F14}
+	EndGlobalSection
+EndGlobal
